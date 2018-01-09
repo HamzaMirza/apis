@@ -1,0 +1,9 @@
+1)www.icoderslab.com/Api/ShoppingApp/addtocard.php?pro_id=34&size=M&color=green&quantity=2&price=1040&type=1
+
+2)http://www.icoderslab.com/Api/ShoppingApp/removeFromCart.php?Cart_id=1
+
+3)www.icoderslab.com/Api/ShoppingApp/viewcart.php
+
+4)www.icoderslab.com/Api/ShoppingApp/paymentmethod.php
+
+5)www.icoderslab.com/Api/ShoppingApp/checkout.php?C_name=Personplz&C_Pno=033325284&C_Cno=4387410-2&C_Add1=effechalo&C_Add2=ddftyyr&C_email=h1003@gmail.com&C_Zip=2500
